@@ -38,4 +38,4 @@ int mul(int a, int b)
 double divi(int a, int b)
 {
     return (double)a / b;   /* 先转 double 再除，否则 10/3 会变成 3 */
-}
+}/* 2026.11 第一次用 Visual Studio 改代码 */
